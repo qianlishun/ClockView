@@ -20,4 +20,5 @@ Clock for iOS
 
 ####示例 
 秒针两种旋转样式
-![](http://ww2.sinaimg.cn/large/e70bae90gw1f3q88b02n3g20pg0q07wh.gif)
+<img src="http://ww2.sinaimg.cn/large/e70bae90gw1f3q88b02n3g20pg0q07wh.gif" alt="" width="231" /></p>
+
